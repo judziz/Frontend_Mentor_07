@@ -1,4 +1,4 @@
-# Second assignement from Frontend Mentor.
+# Seventh assignement from Frontend Mentor.
 
 | Useful Links  |
 | ----------------- |
